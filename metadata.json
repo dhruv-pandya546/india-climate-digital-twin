@@ -1,0 +1,6 @@
+{
+  "name": "India Climate Digital Twin",
+  "description": "An AI-powered digital twin of India's climate system utilizing satellite datasets and meteorological observations for real-time risk simulation and planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
